@@ -1,0 +1,11 @@
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+data/
+archives/
+dist/
+STOP
+PAUSE
+game_*.png
+HANDOFF_*.md
